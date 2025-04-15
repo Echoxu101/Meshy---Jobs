@@ -1,6 +1,6 @@
-# 🚀 Join Meshy – The Best 3D GenAI Platform!
+# 🚀 Join Meshy – The #1 3D GenAI platform, trusted by millions worldwide. The ONLY 3D AI tool featured in A16Z's 2024 AI Tools Survey.
 
-Meshy is building the future of 3D generation with cutting-edge AI. We're on a mission to revolutionize 3D content creation — and we're scaling our dream team!
+Shape the Future of 3D Creativity, Together with Meshy.
 
 ## 💼 We’re Hiring:
 - **Generative AI Researcher**
@@ -13,9 +13,9 @@ Meshy is building the future of 3D generation with cutting-edge AI. We're on a m
 We're hiring across multiple locations:
 - Santa Clara, USA
 - Canada
-- Beijing
-- Shanghai
-- Shenzhen
+- Beijing, China
+- Shanghai, China
+- Shenzhen, China
 
 ## ✨ Why Meshy?
 - Competitive salary, equity, and benefits package.
