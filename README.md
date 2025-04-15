@@ -26,7 +26,8 @@ We're hiring across multiple locations:
 - An inclusive culture that values creativity, innovation, and collaboration.
 
 ## 📩 Apply Today!
-Send your resume or portfolio to: [**echoxu@meshy.ai](mailto:echoxu@meshy.ai)**
+Send your resume or profle to: [**echoxu@meshy.ai](mailto:echoxu@meshy.ai)**
+OR apply via [careers@meshy.ai](careers@meshy.ai)** 🌐
 
 Let's build the future of 3D together.  
 **Join us at [meshy.ai](https://meshy.ai)** 🌐
