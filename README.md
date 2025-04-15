@@ -1,4 +1,5 @@
-# 🚀 Join Meshy – The #1 3D GenAI platform, trusted by millions worldwide. The ONLY 3D AI tool featured in A16Z's 2024 AI Tools Survey.
+# 🚀 Join Meshy – The #1 3D GenAI platform
+trusted by millions worldwide. The ONLY 3D AI tool featured in A16Z's 2024 AI Tools Survey.
 
 Shape the Future of 3D Creativity, Together with Meshy.
 
