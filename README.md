@@ -27,6 +27,7 @@ We're hiring across multiple locations:
 
 ## 📩 Apply Today!
 Send your resume or profle to: [**echoxu@meshy.ai](mailto:echoxu@meshy.ai)**
+Visit [Meshy Jobs](https://job-boards.greenhouse.io/meshy)
 
 Let's build the future of 3D together.  
 **Join us at [meshy.ai](https://meshy.ai)** 🌐
