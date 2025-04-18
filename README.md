@@ -7,7 +7,8 @@ Shape the Future of 3D Creativity, Together with Meshy.
 - **Generative AI Researcher**
 - **Machine Learning Engineer**
 - **Graphics Engineer**
-- **Senior Performance Marketing Specialist**
+- **Backend Engineer**
+- **Frontend Engineer**
 - *(...and more!)*
 
 ## 🌍 Locations:
